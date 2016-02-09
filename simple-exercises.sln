@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverseInPlace", "reverseIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkElement", "checkElement\checkElement.csproj", "{C3CC87EC-A68B-4273-93F7-75CA0E40B321}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "showOddelements", "showOddelements\showOddelements.csproj", "{B9833D48-A328-4CE3-9DE9-2FDCC90FE2FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C3CC87EC-A68B-4273-93F7-75CA0E40B321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3CC87EC-A68B-4273-93F7-75CA0E40B321}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3CC87EC-A68B-4273-93F7-75CA0E40B321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9833D48-A328-4CE3-9DE9-2FDCC90FE2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9833D48-A328-4CE3-9DE9-2FDCC90FE2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9833D48-A328-4CE3-9DE9-2FDCC90FE2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9833D48-A328-4CE3-9DE9-2FDCC90FE2FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
